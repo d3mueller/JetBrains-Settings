@@ -2,6 +2,10 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="EditSourceInNewWindow">
+    <keyboard-shortcut first-keystroke="shift f4" />
+    <keyboard-shortcut first-keystroke="alt circumflex" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
